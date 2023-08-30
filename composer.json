@@ -1,15 +1,15 @@
 {
-    "name": "dariusiii/zipper",
+    "name": "ice6/zipper",
     "type": "library",
     "description": "This is a little neat helper for the ZipArchive methods with handy functions",
     "keywords": ["laravel", "ZIP", "Archive"],
-    "homepage": "http://github.com/DariusIII/zipper",
+    "homepage": "http://github.com/ice6/zipper",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Nils Plaschke",
-            "email": "github@nilsplaschke.de",
-            "homepage": "http://nilsplaschke.de",
+            "name": "ice6",
+            "email": "ice6@live.cn",
+            "homepage": "http://github.com/ice6",
             "role": "Developer"
         }
     ],
@@ -20,7 +20,7 @@
         "illuminate/filesystem": "^5.8|^6.0|^7.0|^8.0|^9.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0|^8.0|^9.0",
+        "phpunit/phpunit": "^7.0|^8.0|^9.0|^10.0",
         "mockery/mockery": "^1.2"
     },
     "autoload": {
@@ -46,6 +46,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
