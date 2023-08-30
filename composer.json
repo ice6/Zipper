@@ -4,6 +4,7 @@
     "description": "This is a little neat helper for the ZipArchive methods with handy functions",
     "keywords": ["laravel", "ZIP", "Archive"],
     "homepage": "http://github.com/ice6/zipper",
+    "version": "10.0.0",
     "license": "Apache-2.0",
     "authors": [
         {
