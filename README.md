@@ -7,7 +7,7 @@ For keep up date with Laravel latest version.
 ## Installation
 
 1. Add this package to the list of required packages, inside `composer.json`
-* for Laravel 10: `"ice6/zipper": "2.2.10"`
+* for Laravel 10: `composer require ice6/zipper 10.0.0`
 
 2. Run `composer update`
 
